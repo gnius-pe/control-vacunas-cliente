@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://192.168.1.72:3000'; // Cambia esta URL según tu backend
+const API_BASE_URL = 'http://192.168.1.72:2000'; // Cambia esta URL según tu backend
 
 import { Paciente, Vacuna, AplicacionVacuna, Alerta } from '../types';
 
